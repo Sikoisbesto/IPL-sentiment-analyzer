@@ -1,0 +1,81 @@
+post_id,tweet,subject_keyword,sentiment
+1,"RCB finally played like champions today, the bowling looked sharp and confident.",RCB,positive
+2,RCB fans deserve better than another middle order collapse.,RCB,negative
+3,RCB's batting was decent but the fielding still needs work.,RCB,neutral
+4,Virat's energy makes RCB matches feel electric every single time.,RCB,positive
+5,"RCB again lost control in the death overs, same old story.",RCB,negative
+6,"RCB tried a new combination today, let's see if it works in the next game.",RCB,neutral
+7,"MI looked clinical today, their finishers handled the chase beautifully.",MI,positive
+8,MI's bowling attack looked completely clueless in the powerplay.,MI,negative
+9,MI made a few tactical changes but the result was mixed.,MI,neutral
+10,Mumbai Indians know how to build pressure in big moments.,MI,positive
+11,MI fans must be frustrated with this inconsistent batting order.,MI,negative
+12,MI's new opener got starts but still has to convert them.,MI,neutral
+13,CSK showed why experience still matters in T20 cricket.,CSK,positive
+14,CSK's fielding looked slow and the energy was missing today.,CSK,negative
+15,CSK played a steady game without doing anything extraordinary.,CSK,neutral
+16,The calmness in CSK's chase was pure class.,CSK,positive
+17,CSK cannot keep depending on late miracles every match.,CSK,negative
+18,"CSK rotated their bowlers differently today, interesting move.",CSK,neutral
+19,"KKR's spinners completely controlled the middle overs, brilliant planning.",KKR,positive
+20,KKR threw away a winning position with careless shots.,KKR,negative
+21,KKR had a balanced performance but lacked a final punch.,KKR,neutral
+22,KKR's aggressive batting approach is so fun to watch.,KKR,positive
+23,KKR's death bowling was painful to watch today.,KKR,negative
+24,KKR experimented with the batting order in this match.,KKR,neutral
+25,SRH's batting firepower is scary when everyone clicks together.,SRH,positive
+26,SRH wasted a great start and looked nervous under pressure.,SRH,negative
+27,SRH scored quickly early but slowed down after the timeout.,SRH,neutral
+28,SRH's top order gave fans a proper highlight show today.,SRH,positive
+29,SRH bowling without discipline is becoming a real problem.,SRH,negative
+30,SRH used an impact player but it did not change the match much.,SRH,neutral
+31,RR's young players showed fearless cricket and great maturity.,RR,positive
+32,RR lost momentum because of poor shot selection.,RR,negative
+33,RR had a good powerplay but the middle overs were average.,RR,neutral
+34,Rajasthan Royals looked well prepared and tactically smart today.,RR,positive
+35,RR's bowling plans were too predictable against strong hitters.,RR,negative
+36,RR's captain changed the field often but the match stayed close.,RR,neutral
+37,DC finally showed intent and played with real confidence.,DC,positive
+38,DC's batting collapse was disappointing after such a good start.,DC,negative
+39,DC tried to be aggressive but the execution was uneven.,DC,neutral
+40,Delhi Capitals' pace attack looked sharp and hungry today.,DC,positive
+41,DC missed simple chances and paid the price.,DC,negative
+42,DC's all-rounders contributed in small but useful ways.,DC,neutral
+43,PBKS played fearless cricket and deserved this win.,PBKS,positive
+44,PBKS again failed to close the game from a strong position.,PBKS,negative
+45,PBKS had a few good spells but lacked consistency overall.,PBKS,neutral
+46,"Punjab Kings' finishing was calm, clean, and professional.",PBKS,positive
+47,PBKS bowling looked flat after the first six overs.,PBKS,negative
+48,PBKS changed their lineup but the impact was moderate.,PBKS,neutral
+49,GT's bowling discipline is honestly one of the best in the league.,GT,positive
+50,GT's batting looked too dependent on one or two players.,GT,negative
+51,GT played sensible cricket but never fully dominated the match.,GT,neutral
+52,Gujarat Titans controlled the chase like a top-quality side.,GT,positive
+53,GT's fielding errors made an easy match unnecessarily difficult.,GT,negative
+54,GT rotated their bowlers well but the pitch also helped them.,GT,neutral
+55,LSG's middle order rescued the game with a brilliant partnership.,LSG,positive
+56,LSG looked confused with their batting strategy today.,LSG,negative
+57,LSG had moments of quality but could not keep the pressure on.,LSG,neutral
+58,Lucknow Super Giants showed great patience in a tricky chase.,LSG,positive
+59,LSG gave away too many extras and lost control of the innings.,LSG,negative
+60,"LSG used their spinner early, which was an interesting tactical call.",LSG,neutral
+61,"RCB's fans were loud, proud, and totally behind the team tonight.",RCB,positive
+62,MI need to fix their opening partnership before the next match.,MI,negative
+63,CSK's strategy was conservative but not completely wrong.,CSK,neutral
+64,KKR's captaincy was bold and it changed the match direction.,KKR,positive
+65,SRH's bowlers kept missing yorkers at the worst possible time.,SRH,negative
+66,RR's batting depth gives them a real advantage this season.,RR,positive
+67,"DC's chase was neither terrible nor convincing, just average.",DC,neutral
+68,PBKS fans must be tired of these avoidable losses.,PBKS,negative
+69,GT's calm approach under pressure is impressive.,GT,positive
+70,LSG's team selection will probably be debated after this result.,LSG,neutral
+71,RCB bowling at the death looked much improved compared to earlier games.,RCB,positive
+72,MI's fielding standards dropped badly today.,MI,negative
+73,CSK's opener started slowly but helped stabilize the innings.,CSK,neutral
+74,KKR fans got a proper entertainer with that explosive batting display.,KKR,positive
+75,SRH's middle order failed to support the openers again.,SRH,negative
+76,RR's bowlers kept things tight but wickets did not come easily.,RR,neutral
+77,DC's young batter showed great temperament under pressure.,DC,positive
+78,PBKS made the chase harder than it needed to be.,PBKS,negative
+79,"GT's innings was steady, practical, and result-focused.",GT,neutral
+80,LSG's fast bowlers looked dangerous with the new ball.,LSG,positive
